@@ -7,8 +7,6 @@ const stopRandomColor = document.getElementById("stop");
 
 const p = document.createElement("p");
 p.id = "colorNameDisplay";
-p.style.fontSize = "32px";
-p.style.fontFamily="roboto"
 p.style.marginTop = "20px";
 document.body.appendChild(p);
 

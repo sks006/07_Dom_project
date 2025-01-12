@@ -8,7 +8,7 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: #f0f0f0;
+  background-color: #d69967;
   color: #333;
   min-height: 100vh;
   display: flex;
@@ -21,7 +21,14 @@ body {
 h1 {
   margin-bottom: 20px;
   font-size: 2rem;
-  color: #e9e9e9;
+  font-weight: 900;
+  color: #cfcfcf;
+}
+p{
+  color: rgb(200, 212, 208);
+  font-size: larger;
+  font-family: "roboto";
+  font-size: 5rem;
 }
 
 /* Buttons */
